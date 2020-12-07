@@ -1,0 +1,19 @@
+.header{
+    display: grid;
+    grid-template-columns: 1200px 400px;
+    font-size: 1.4em;
+    padding: 15px;
+    border: 3px inset whitesmoke;
+    border-top:  outset;
+    border-left: outset;
+    margin-top: 0px;
+    box-shadow: var(--peaky-shadow-nav);
+    top: 0;
+    left: 0;
+    z-index: 1000;
+}
+
+.logo{
+    height: 28px;
+    margin-left: 150px;
+}
